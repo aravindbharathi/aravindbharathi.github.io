@@ -1,0 +1,13 @@
+# Site settings
+title: My Portfolio
+email: bv.iitb.2023@gmail.com
+description: Physics - Math = Philosophy
+baseurl: "/blog/"
+url: "https://bvcxz1.github.io/"
+
+twitter_username: bvcxz1_
+github_username: bvcxz1
+instagram_username: _shadowsilver_
+
+# Build settings
+markdown: kramdown
