@@ -1,7 +1,7 @@
 # README.md
 That *mandatory* markdown file to document stuff
 
-To go to my website click [here](https://bvcxz1.github.io/)
+To go to my website click [here](https://aravindbharathi.github.io/)
 
 ## To use this template
 
