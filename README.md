@@ -16,6 +16,10 @@ That *mandatory* markdown file to document stuff
 
 To go to my website click [here](https://aravindbharathi.github.io/)
 
+## Other Headers
+
+ - Change the headers of sublinks in line 158 of the respective \_base\*.scss files under [\_sass](_sass)
+
 ### Favicons
 
  - All favicons were generated using [this](https://favicon.io/favicon-converter/) excellent website
