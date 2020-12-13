@@ -10,6 +10,10 @@ That *mandatory* markdown file to document stuff
 
 To go to my website click [here](https://aravindbharathi.github.io/)
 
+### Favicons
+
+ - All favicons were generated using [this](https://favicon.io/favicon-converter/) excellent website
+
 ## To use this template
 
 - Start by adding your info in `_config.yml`
