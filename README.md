@@ -1,5 +1,11 @@
 # README.md
 
+## Images
+
+ - Find them under the [img](/img/) directory
+ - Header images are of aspect ratio 3:2
+ - Portfolio images are of aspect ratio 13:7
+
 ## Portfolio Directories
 
  - Recommendations: rec
