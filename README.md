@@ -8,9 +8,9 @@
 
 ## Portfolio Directories
 
- - Recommendations: rec
- - Research Projects: projects
- - Courses: courses
+ - Recommendations: [rec](/rec/)
+ - Research Projects: [projects](/projects/)
+ - Courses: [courses](/courses/)
 
 That *mandatory* markdown file to document stuff
 
