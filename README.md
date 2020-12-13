@@ -1,4 +1,11 @@
 # README.md
+
+## Portfolio Directories
+
+ - Recommendations: rec
+ - Research Projects: projects
+ - Courses: courses
+
 That *mandatory* markdown file to document stuff
 
 To go to my website click [here](https://aravindbharathi.github.io/)
