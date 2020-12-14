@@ -2,7 +2,7 @@
 
 That *mandatory* markdown file to document stuff
 
-To go to my website click [here](https://aravindbharathi.github.io/)
+To go to my website click <a href="https://aravindbharathi.github.io/)" target="_blank">here</a>
 
 ## Images
 
