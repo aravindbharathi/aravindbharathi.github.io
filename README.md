@@ -19,7 +19,8 @@ To go to my website click [here](https://aravindbharathi.github.io/)
 ##
 
  - Change the headers of sublinks in line 158 of the respective \_base\*.scss files under [\_sass](_sass)
- - Change the content through index.html under the respective directory
+ - Include the respective base file in the main\*.scss file under [css](css)
+ - Change (Include the respective) the content through index.html under the respective directory
 
 ### Favicons
 
