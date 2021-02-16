@@ -5,31 +5,41 @@ function myFunction() {
   } else {
     x.style.display = "none";
   }
-  var x = document.getElementById("myDIV2");
+}
+function myFunction2() {
+  var x = document.getElementById("myDIV");
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
     x.style.display = "none";
   }
-  var x = document.getElementById("myDIV3");
+}
+function myFunction3() {
+  var x = document.getElementById("myDIV");
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
     x.style.display = "none";
   }
-  var x = document.getElementById("myDIV4");
+}
+function myFunction4() {
+  var x = document.getElementById("myDIV");
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
     x.style.display = "none";
   }
-  var x = document.getElementById("myDIV5");
+}
+function myFunction5() {
+  var x = document.getElementById("myDIV");
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
     x.style.display = "none";
   }
-  var x = document.getElementById("myDIV6");
+}
+function myFunction6() {
+  var x = document.getElementById("myDIV");
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
