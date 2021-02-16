@@ -7,7 +7,7 @@ function myFunction() {
   }
 }
 function myFunction2() {
-  var x = document.getElementById("myDIV");
+  var x = document.getElementById("myDIV2");
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
@@ -15,7 +15,7 @@ function myFunction2() {
   }
 }
 function myFunction3() {
-  var x = document.getElementById("myDIV");
+  var x = document.getElementById("myDIV3");
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
@@ -23,7 +23,7 @@ function myFunction3() {
   }
 }
 function myFunction4() {
-  var x = document.getElementById("myDIV");
+  var x = document.getElementById("myDIV4");
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
@@ -31,7 +31,7 @@ function myFunction4() {
   }
 }
 function myFunction5() {
-  var x = document.getElementById("myDIV");
+  var x = document.getElementById("myDIV5");
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
@@ -39,7 +39,7 @@ function myFunction5() {
   }
 }
 function myFunction6() {
-  var x = document.getElementById("myDIV");
+  var x = document.getElementById("myDIV6");
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
