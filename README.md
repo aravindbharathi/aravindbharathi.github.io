@@ -15,6 +15,7 @@ To go to my website click <a href="https://aravindbharathi.github.io/" target="_
  - Recommendations: [rec](/rec/)
  - Research Projects: [projects](/projects/)
  - Courses: [courses](/courses/)
+ - Talks: [talks](/talks/)
 
 ##
 
