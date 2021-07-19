@@ -51,6 +51,63 @@
       background-color: transparent;
       text-decoration: underline;
     }
+      
+header {
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    @include background-cover;
+    background-position: center;
+    background-image: url('../img/proj/micro.jpeg');
+    text-align: center;
+    color: white;
+    .header-content {
+        position: relative;
+        text-align: center;
+        padding: 100px 15px 100px;
+        width: 100%;
+        .header-content-inner {
+            h1 {
+                font-weight: 700;
+                text-transform: uppercase;
+                margin-top: 0;
+                margin-bottom: 0;
+            }
+            hr {
+                margin: 30px auto;
+            }
+            p {
+                font-weight: 300;
+                color: rgba(white, .7);
+                font-size: 16px;
+                margin-bottom: 50px;
+            }
+        }
+    }
+    @media (min-width: 768px) {
+        min-height: 100%;
+        .header-content {
+            position: absolute;
+            top: 50%;
+            -webkit-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+            padding: 0 50px;
+            .header-content-inner {
+                max-width: 1000px;
+                margin-left: auto;
+                margin-right: auto;
+                p {
+                    font-size: 18px;
+                    max-width: 80%;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+            }
+        }
+    }
+}  
+      
     </style>
     
   </head>
@@ -74,16 +131,7 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a class="page-scroll" href="#pub">Publications</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#research">Research</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#tech">Technical</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#short">Short</a>
+                        <a class="page-scroll" href="#pub">Microlensing</a>
                     </li>
                 </ul>
             </div>
@@ -97,29 +145,11 @@
             <div class="header-content-inner">
                 <h1>Research Projects</h1>
                 <hr>
-                <p>A comprehensive list of major projects and internships that I have been a part of over the years</p>
+                <p>Investigating candidates for dark matter through gravitational lensing observations</p>
                 <a href="#pub" class="btn btn-primary btn-xl page-scroll">Find Out</a>
             </div>
         </div>
     </header>
-
-    <section class="bg-primary" id="pub">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">Publications</h2>
-                    <hr class="light">
-                    <p class="text-faded">
-                      <ul align = "left">
-                        <li><b>Valluvan A. B.</b> et al. <b>"Canopy Height Estimation using Polygon Meshes"</b>, 3D Modelling and Mapping for Precision Agriculture, 2021, ISSN 2072-4292 (Submitted for review)
-                        <li>Katla V., <b>Valluvan A. B.</b> et al. <b>”An Approach to Star Tracker Design for Nano-Satellite 
-                          Applications”</b> extended abstract presented in National Conference on Small Satellite Technology and 
-                          Applications, Trivandrum, India, 2020</li>
-                    </p>
-                </div>
-            </div>
-        </div>
-    </section>    
     
     <section class="bg-primary" id="research">
         <div class="container">
